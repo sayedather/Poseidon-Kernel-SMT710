@@ -1,0 +1,3 @@
+kernel/drivers/thermal/thermal_sys.ko
+kernel/drivers/thermal/exynos_thermal.ko
+kernel/drivers/thermal/cal_tmu.ko

@@ -1,0 +1,4 @@
+kernel/drivers/input/touchscreen/synaptics_dsx2/synaptics_i2c_rmi.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/rmi_dev.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/rmi_fw_update.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/rmi_f54.ko

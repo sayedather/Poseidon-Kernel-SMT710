@@ -1,0 +1,5 @@
+kernel/drivers/misc/uid_cputime.ko
+kernel/drivers/misc/tzic.ko
+kernel/drivers/misc/tima_debug_log.ko
+kernel/drivers/misc/dmverity_query.ko
+kernel/drivers/misc/mipi-lli/mipi-lli.ko

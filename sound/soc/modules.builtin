@@ -1,0 +1,11 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-arizona.ko
+kernel/sound/soc/codecs/snd-soc-vegas.ko
+kernel/sound/soc/codecs/snd-soc-dummy.ko
+kernel/sound/soc/samsung/snd-soc-s3c24xx.ko
+kernel/sound/soc/samsung/snd-soc-i2s.ko
+kernel/sound/soc/samsung/snd-soc-lpass.ko
+kernel/sound/soc/samsung/snd-soc-eax-dai.ko
+kernel/sound/soc/samsung/snd-soc-eax-dma.ko
+kernel/sound/soc/samsung/snd-soc-pacific-wm1814.ko
+kernel/sound/soc/samsung/snd-soc-pacific-hdmi.ko

@@ -1,0 +1,9 @@
+kernel/drivers/iio/industrialio.ko
+kernel/drivers/iio/industrialio-triggered-buffer.ko
+kernel/drivers/iio/kfifo_buf.ko
+kernel/drivers/iio/grip/sx9310_wifi_iio.ko
+kernel/drivers/iio/imu/st_lsm6ds3.ko
+kernel/drivers/iio/imu/st_lsm6ds3_i2c.ko
+kernel/drivers/iio/light/cm3323.ko
+kernel/drivers/iio/magnetometer/yas537/yas_mag_drv-yas537.ko
+kernel/drivers/iio/magnetometer/yas537/yas_mag_kernel.ko

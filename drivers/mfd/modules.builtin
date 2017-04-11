@@ -1,0 +1,3 @@
+kernel/drivers/mfd/arizona-i2c.ko
+kernel/drivers/mfd/arizona-spi.ko
+kernel/drivers/mfd/mfd-core.ko

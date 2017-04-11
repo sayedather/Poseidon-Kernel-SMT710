@@ -1,0 +1,2 @@
+kernel/drivers/iio/magnetometer/yas537/yas_mag_drv-yas537.ko
+kernel/drivers/iio/magnetometer/yas537/yas_mag_kernel.ko

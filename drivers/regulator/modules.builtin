@@ -1,0 +1,6 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/arizona-micsupp.ko
+kernel/drivers/regulator/arizona-ldo1.ko
+kernel/drivers/regulator/max77843.ko
+kernel/drivers/regulator/sm5703.ko
+kernel/drivers/regulator/s2mps13.ko

@@ -1,0 +1,14 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/ff-memless.ko
+kernel/drivers/input/mousedev.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/hall.ko
+kernel/drivers/input/keyboard/atkbd.ko
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/keyboard/tc300k.ko
+kernel/drivers/input/misc/uinput.ko
+kernel/drivers/input/misc/input_booster.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/synaptics_i2c_rmi.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/rmi_dev.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/rmi_fw_update.ko
+kernel/drivers/input/touchscreen/synaptics_dsx2/rmi_f54.ko

@@ -1,0 +1,2 @@
+kernel/drivers/fingerprint/fingerprint_sysfs.ko
+kernel/drivers/fingerprint/vfs7xxx.ko
